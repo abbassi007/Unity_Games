@@ -6,5 +6,5 @@
 
 ## Car Race Game
 
-![App Screenshot](https://github.com/abbassi007/Unity_Games/tree/master/Gif/Race.gif)
+![App Screenshot](https://github.com/abbassi007/Unity_Games/blob/master/Gif/Race.gif)
 
